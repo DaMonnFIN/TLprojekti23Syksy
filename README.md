@@ -9,7 +9,9 @@ Voit seurata projektin edistymistä GitHub projektiseurannasta jos sinut on lis�
 
 ##Henkilökohtainen edistyminen Trellossa:
 
-Taneli: [Trello Board Linkki](https://trello.com/b/FY8QJFOQ)
+Taneli: 
+
+Viikko 1 [Trello Board Linkki](https://trello.com/b/FY8QJFOQ)
 
 Oliver:
 
