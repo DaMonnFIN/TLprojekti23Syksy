@@ -39,3 +39,5 @@ Tässä projektissa kehitetään järjestelmä, joka hyödyntää nRF5340 Develo
 ### Yhteistyötyökalut
 - **Discord**: Tiimin välinen kommunikointi ja tiedostojen jako.
 - **Whatsapp**: Tiimin välinen kommunikointi  ja tiedostojen jako.
+
+![Projektikuva](Projektikuva.png)
