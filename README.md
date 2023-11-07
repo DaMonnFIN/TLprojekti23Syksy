@@ -1,6 +1,6 @@
 # Tietoliikenteen sovellusprojekti 2023 syksy
 
-## Projektiin osallistujat: ## Taneli Huikari ja Oliver Jäälehto
+## Projektiin osallistujat: Taneli Huikari ja Oliver Jäälehto
 
 ## Projektin Edistyminen
 
