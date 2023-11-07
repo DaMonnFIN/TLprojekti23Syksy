@@ -12,6 +12,8 @@ Taneli:
 
 Viikko 1 [Trello Board Linkki](https://trello.com/b/FY8QJFOQ)
 
+Viikko 2 [Trello Board Linkki](https://trello.com/b/PP9BcDCP)
+
 Oliver:
 
 ## Kuvaus
