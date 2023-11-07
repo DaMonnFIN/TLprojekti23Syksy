@@ -1,0 +1,1 @@
+testataan listata tekstia tiedostoon echolla
