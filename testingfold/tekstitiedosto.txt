@@ -1,1 +1,0 @@
-testataan lisätä tämä vain omaan haaraan ja git ignoreen laitetaan polku main haarassa.
