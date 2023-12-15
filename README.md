@@ -51,7 +51,7 @@ Tässä projektissa kehitetään järjestelmä, joka hyödyntää nRF5340 Develo
 #### Visualisointi K-Means algoritmin toiminnasta
 Algoritmi opetettu generoidulla datalla.
 
-![K-means](kmeanskuva.png)
+![K-means](algoritmikuva.png)
 
 ### Versionhallinta ja yhteistyö
 - **Git ja GitHub**: Koodin versionhallinta, dokumentaation ylläpito, haara- ja yhdistämisoperaatiot sekä konfliktien ratkaiseminen.
