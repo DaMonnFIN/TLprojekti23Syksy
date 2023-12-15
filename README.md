@@ -14,10 +14,13 @@ Viikko 1 [Trello Board Linkki](https://trello.com/b/FY8QJFOQ)
 
 Viikko 2 [Trello Board Linkki](https://trello.com/b/PP9BcDCP)
 
-Oliver:
 
 ## Kuvaus
 Tässä projektissa kehitetään järjestelmä, joka hyödyntää nRF5340 Development Kit -kehitysalustaa anturidatan keräämiseen ja langattomaan siirtoon. Kehitetty client-ohjelmisto mittaa anturidataa, kuten asentoa, ja lähettää tiedot langattomasti IoT-reitittimen kautta Oamkin MySQL-tietokantaan. Tietokantaan tallennettu data on saatavilla TCP-sokettirajapinnan kautta, ja sitä voidaan hakea yksinkertaisen HTTP API:n avulla. Projektissa keskitytään erityisesti anturidatan analysointiin ja hyödyntämiseen koneoppimistarkoituksiin, käyttäen K-Means algoritmia asentoanturin tilan tunnistamiseen ja tulkitsemiseen.
+
+#### Projektin tavoite
+![Arkkitehtuurikuva](https://github.com/DaMonnFIN/TLprojekti23Syksy/assets/143798070/1ac851ba-00b2-4a4d-899c-467983ccef78)
+
 
 # Projektin kuvaus ja tavoitteet voivat tarkentua ja muuttua projektin edetessä.
 
@@ -44,6 +47,11 @@ Tässä projektissa kehitetään järjestelmä, joka hyödyntää nRF5340 Develo
 
 ### Datan analysointi ja koneoppiminen
 - **K-Means algoritmi**: Käytetään asentoanturin tilan ryhmittelyyn ja tunnistamiseen, mahdollistaen tarkan ja tehokkaan asennon seurannan.
+
+#### Visualisointi K-Means algoritmin toiminnasta
+Algoritmi opetettu generoidulla datalla.
+
+![K-means](kmeanskuva.png)
 
 ### Versionhallinta ja yhteistyö
 - **Git ja GitHub**: Koodin versionhallinta, dokumentaation ylläpito, haara- ja yhdistämisoperaatiot sekä konfliktien ratkaiseminen.
