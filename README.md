@@ -4,16 +4,7 @@
 
 ## Projektin Edistyminen
 
-Voit seurata projektin edistymistä GitHub projektiseurannasta jos sinut on lisätty projektiin, sekä Trellosta.
-
-## Henkilökohtainen edistyminen Trellossa:
-
-Taneli: 
-
-Viikko 1 [Trello Board Linkki](https://trello.com/b/FY8QJFOQ)
-
-Viikko 2 [Trello Board Linkki](https://trello.com/b/PP9BcDCP)
-
+Voit seurata projektin edistymistä GitHub projektiseurannasta jos sinut on lisätty projektiin.
 
 ## Kuvaus
 Tässä projektissa kehitetään järjestelmä, joka hyödyntää nRF5340 Development Kit -kehitysalustaa anturidatan keräämiseen ja langattomaan siirtoon. Kehitetty client-ohjelmisto mittaa anturidataa, kuten asentoa, ja lähettää tiedot langattomasti IoT-reitittimen kautta Oamkin MySQL-tietokantaan. Tietokantaan tallennettu data on saatavilla TCP-sokettirajapinnan kautta, ja sitä voidaan hakea yksinkertaisen HTTP API:n avulla. Projektissa keskitytään erityisesti anturidatan analysointiin ja hyödyntämiseen koneoppimistarkoituksiin, käyttäen K-Means algoritmia asentoanturin tilan tunnistamiseen ja tulkitsemiseen.
